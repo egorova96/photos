@@ -1,0 +1,4 @@
+.card-list__item_type_ny {
+    background-image: url(../../../../../images/timesquare.avif);
+    filter: contrast(120%) brightness(90%);
+}

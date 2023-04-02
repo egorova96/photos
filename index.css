@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('./blocks/page/page.css');
+@import url('./blocks/header/header.css');
+@import url('./blocks/header/__title/header__title.css');
+@import url('./blocks/card-list/card-list.css');
+@import url('./blocks/card-list/__item/card-list__item.css');
+@import url('./blocks/card-list/__title/card-list__title.css');
+@import url('./blocks/card-list/__social/card-list__social.css');
+@import url('./blocks/card-list/__item/_type/_moscow/card-list__item_type_moscow.css');
+@import url('./blocks/card-list/__item/_type/_ny/card-list__item_type_ny.css');
+@import url('./blocks/card-list/__item/_type/_dubai/card-list__item_type_dubai.css');
+@import url('./blocks/footer/footer.css');
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}

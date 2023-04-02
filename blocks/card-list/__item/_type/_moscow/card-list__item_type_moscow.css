@@ -1,0 +1,4 @@
+.card-list__item_type_moscow {
+    background-image: url(../../../../../images/moscowcity.avif); 
+    filter: contrast(120%) brightness(90%);
+}
